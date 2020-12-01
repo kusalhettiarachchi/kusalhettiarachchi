@@ -6,8 +6,8 @@
 
 💻 Currently working as the tech lead for Minds and Codes, a startup from Colombo. 
 
-📫 Reach me on [email][mailto:kusalhettiarachchi@hotmail.com]
-🐦 Follow me on [twitter][https://twitter.com/waitamiwrong]
+📫 Reach me on [email](mailto:kusalhettiarachchi@hotmail.com)
+🐦 Follow me on [twitter](https://twitter.com/waitamiwrong)
 
 <!--
 **kusalhettiarachchi/kusalhettiarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
