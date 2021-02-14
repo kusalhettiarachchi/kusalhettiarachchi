@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning the usage of attention models in NLP. 
 
-💻 Currently working as the tech lead for Minds and Codes, a startup from Colombo. 
+💻 Currently working as a Senior Data Science Engineer for Arimac. 
 
 📫 Reach me [email](mailto:kusalhettiarachchi@hotmail.com)
 
